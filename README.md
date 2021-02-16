@@ -1,2 +1,2 @@
 # React_Calculator
-Calculadora feita em recai
+Calculadora feita em react

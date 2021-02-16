@@ -1,0 +1,14 @@
+*
+{
+  box-sizing: border-box;
+}
+.calculator
+{
+    width: 250px;
+    height: 350px;
+    overflow: hidden;
+    border-radius: 8px;
+    display: grid;
+    grid-template-columns: repeat(4,25%);
+    grid-template-rows: 1fr 48px 48px 48px 48px 48px;
+}

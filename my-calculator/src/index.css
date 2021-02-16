@@ -1,0 +1,14 @@
+*
+{
+  box-sizing: border-box;
+  font-family: monospace;
+}
+body
+{
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  background: linear-gradient(to right, rgb(36, 198, 220), rgb(81, 74, 157));
+}
